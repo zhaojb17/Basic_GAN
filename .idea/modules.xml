@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Basic_GAN.iml" filepath="$PROJECT_DIR$/.idea/Basic_GAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kaggle/MNIST/.idea/MNIST.iml" filepath="$PROJECT_DIR$/../Kaggle/MNIST/.idea/MNIST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pinyin_Input_Method/.idea/Pinyin_Input_Method.iml" filepath="$PROJECT_DIR$/../Pinyin_Input_Method/.idea/Pinyin_Input_Method.iml" />
+    </modules>
+  </component>
+</project>
